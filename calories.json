@@ -1,0 +1,123 @@
+{
+    "burger": {
+      "calories": 250,
+      "protein": 15,
+      "fat": 12,
+      "carbohydrates": 30
+    },
+    "butter_naan": {
+      "calories": 300,
+      "protein": 8,
+      "fat": 15,
+      "carbohydrates": 40
+    },
+    "chai": {
+      "calories": 100,
+      "protein": 2,
+      "fat": 3,
+      "carbohydrates": 20
+    },
+    "chapati": {
+      "calories": 70,
+      "protein": 5,
+      "fat": 1,
+      "carbohydrates": 15
+    },
+    "chole_bhature": {
+      "calories": 500,
+      "protein": 20,
+      "fat": 25,
+      "carbohydrates": 45
+    },
+    "dal_makhani": {
+      "calories": 350,
+      "protein": 18,
+      "fat": 12,
+      "carbohydrates": 30
+    },
+    "dhokla": {
+      "calories": 200,
+      "protein": 7,
+      "fat": 8,
+      "carbohydrates": 25
+    },
+    "fried_rice": {
+      "calories": 400,
+      "protein": 10,
+      "fat": 15,
+      "carbohydrates": 60
+    },
+    "idli": {
+      "calories": 60,
+      "protein": 3,
+      "fat": 1,
+      "carbohydrates": 10
+    },
+    "jalebi": {
+      "calories": 250,
+      "protein": 2,
+      "fat": 10,
+      "carbohydrates": 40
+    },
+    "kaathi_rolls": {
+      "calories": 350,
+      "protein": 12,
+      "fat": 18,
+      "carbohydrates": 25
+    },
+    "kadai_paneer": {
+      "calories": 300,
+      "protein": 15,
+      "fat": 12,
+      "carbohydrates": 10
+    },
+    "kulfi": {
+      "calories": 200,
+      "protein": 5,
+      "fat": 10,
+      "carbohydrates": 20
+    },
+    "masala_dosa": {
+      "calories": 300,
+      "protein": 8,
+      "fat": 10,
+      "carbohydrates": 35
+    },
+    "momos": {
+      "calories": 150,
+      "protein": 6,
+      "fat": 5,
+      "carbohydrates": 20
+    },
+    "paani_puri": {
+      "calories": 100,
+      "protein": 2,
+      "fat": 3,
+      "carbohydrates": 15
+    },
+    "pakode": {
+      "calories": 200,
+      "protein": 5,
+      "fat": 12,
+      "carbohydrates": 20
+    },
+    "pav_bhaji": {
+      "calories": 350,
+      "protein": 10,
+      "fat": 15,
+      "carbohydrates": 40
+    },
+    "pizza": {
+      "calories": 300,
+      "protein": 10,
+      "fat": 15,
+      "carbohydrates": 30
+    },
+    "samosa": {
+      "calories": 200,
+      "protein": 5,
+      "fat": 10,
+      "carbohydrates": 25
+    }
+  }
+  
